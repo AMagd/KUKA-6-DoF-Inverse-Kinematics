@@ -1,6 +1,7 @@
 # KUKA-6-DoF-Inverse-Kinematics
 
 Author ~ Ahmed Magd Aly
+
 Innopolis University
 
 YouTube: https://www.youtube.com/playlist?list=PL9nxOfGsvMusy76Hr64nVc0glB2h7BjB4
